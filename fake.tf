@@ -2,4 +2,4 @@ AUTH_TOKEN: ghp_5QGJR1SkKT9qG8RCagxH1THPogo4EY0VJJWL
 
 AUTH_TOKEN: ghp_5QGJR1SkKT9qG8RCagxH1THPogo4EY0VJJW1
 
-password = Password1234
+password = ContraAdmin23!
